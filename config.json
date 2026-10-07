@@ -1,0 +1,6 @@
+{
+    "Application Name": "my flask project",
+    "Environment": "Development",
+    "Debug Mode": true,
+    "Version": "1.0.0"
+}

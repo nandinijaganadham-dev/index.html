@@ -1,0 +1,30 @@
+[
+    {
+        "username": "Admin",
+        "action": "Login",
+        "description": "Administrator logged in.",
+        "date": "2026-08-31 20:24:44"
+    },
+    {
+        "username": "admin",
+        "action": "Configuration Updated",
+        "description": "Application configuration was updated.",
+        "date": "2026-08-31 12:36:42"
+    },
+    {
+        "username": "admin",
+        "action": "Login",
+        "description": "Administrator logged in.",
+        "date": "2026-08-31 12:30:31"
+    },
+    {
+        "action": "Administrator logged in",
+        "date": "2026-08-29",
+        "time": "16:55:13"
+    },
+    {
+        "action": "Configuration updated",
+        "date": "2026-08-29",
+        "time": "15:34:33"
+    }
+]
